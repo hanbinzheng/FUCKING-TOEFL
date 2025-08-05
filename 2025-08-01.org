@@ -1,0 +1,192 @@
+#+title: 2025 08 01
+
+* 2025-08-01
+
+** 1. prefix & suffix & etyma & affix
+
+1. crev: 裂开
+   - crevice, [[cmd://Speak/_us_/crevice][/'krevɪs/]]
+     He edged the tool into the crevice.
+2. de: 否定
+   - debate
+3. dis: 离开
+   - discharge: 卸下排出
+     The water pipe doesn't discharge freely.
+     We have to discharge ourselves of our duties.
+     discharge of his defence
+4. juven: 年轻
+   - juvenile, [[cmd://Speak/_us_/juvenile][/'dʒuːvənl/]]
+     青少年的，juvenile delinquency。juvenile偏正式，一般代表“不是很成熟”的感觉，同时有“叛逆，幼稚”这种感觉，比如juvenile behaviour, juvenile joke。
+     中性的用adolescent, teenagers
+   - rejuvenate/rejuvenation: 使重新回复活力
+   - juvenilia: 作家初期的作品
+   - junior
+5. sur: 超过，在....之上
+   - surplus, [[cmd://Speak/_us_/surplus][/'sɜːrplʌs/]]: 过剩的，盈余的
+     The kids were running around crazily, working off their surplus energy.
+     The surplus steam was blown off through the pipes.
+   - survive (vive: 活着)
+   - surpass: 超过
+6. mari: 海
+   - marine: 海的，海生的
+   - maritime: 和航海相关的
+   - submarine
+   - aquamarine: 海蓝宝石
+7. aqua: 水的
+   - aquatic
+   - aquarium
+   - aquamarine
+8. pre: 前
+   - predominant: 数量/频率上占绝大多数(强调数量)
+   - dominant: 有控制力/占主导地位的(强调控制力)
+9. radi: 光线
+   - radiant: 灿烂的
+   - radiation: 发射辐射，solar radiation
+   - radiate: 发光发热发散
+     The sun radiates heat and light.
+   - radiation therapy
+   - radical是“根本的”，激进的，radical cure，不是这个radi的例子
+10. tend/tens/tent: 伸展
+    - tendency
+    - extend
+    - tension
+    - intense
+    - tent
+11. sol: 独自
+    - solo： 单独的，独奏曲
+
+** 2. 不会的，从来没见过的
+
+1. acronym: [[cmd://Speak/_us_/acronym][/'ækrənɪm/]]
+   首字母缩写词
+   - acro: 高的/顶端的 (acrobat: 杂技演员)
+   - nym: 名字 (anonymous)
+   区分 abbreviation，一个是缩写，一个是首字母缩写
+2. adhere: [[cmd://Speak/_us_/adhere][/əd'hɪr/]]
+   - ad: 增强 (adapt -> 增强)
+   - her: 粘着/附着
+     cohesive, cohesion, coherent, inherent
+   - 粘着 (stick), 坚持 (cling)
+     Some of the sizable ice crystals adhere to each other to create a cluster of ice crystals or a snowflake.
+3. congest: 拥挤/充满
+   - The streets are often congested
+   - congestion: 拥挤/充血
+     The congestion in the city gets even worse during the summer.
+   - congested: 拥挤的
+4. crevice
+5. dispute: [[cmd://Speak/_us_/dispute][/dɪ'spjuːt/]]
+   - dis + put (不思考)
+   - n/v, 争吵争论，辩论
+     The village chief dealt with land disputes and religious affairs.
+6. foul: [[cmd://Speak/_us_/foul][/faʊl/]]
+   - 邪恶的肮脏的: my foul soul!
+   - The teachers were all shocked by the boy's foul language and behaviors.
+   - 犯规: The player was benched for many fouls
+7. juvenile
+8. maritime
+9. prevalent: [[cmd://Speak/_us_/prevalent][/'prevələnt/]]
+   - pre + val (强壮的) + ent
+   - 流行的/普遍的 (universal, common)
+     Colds are prevalent in the winter.
+   - val: value, valor, valid, equivalent
+10. rehabilitate: [[cmd://Speak/_us_/rehabilitate][/ˌriːə'bɪlɪteɪt/]]
+    - re + hab (拥有) + ilitate (使能够)
+    - 使恢复原状
+    - hab: habit, inhabit, exhibit, prohibit
+    - There's was no money to rehabilitate that tower.
+11. sapphire: [[cmd://Speak/_us_/sapphire][/'sæfaɪər/]]
+12. shuttle: [[cmd://Speak/_us_/shuttle][/'ʃʌtl/]]
+    - 梭子/公共汽车（穿梭）
+    - space shuttle (航天飞机)
+13. varnish: [[cmd://Speak/_us_/varnish][/'vɑːrnɪʃ/]]
+    - vt. 上清漆
+    - n. 虚饰；光泽面；亮光漆，清漆
+    - Stain the table before you varnish it.
+    - The varnish protected the table from being damaged.
+    - 擦亮 burnish 之后上清漆 varnish 最后 vanish
+
+** 3. 见过但是不熟悉的/熟词生义
+
+1. acute
+   - It's urgent that the acute problem of air pollution in the city be solved.
+2. brochure/booklet/pamphlet
+3. chimpanzee
+4. collective
+5. conductivity
+6. convince: [[cmd://Speak/_us_/convince][/kən'vɪns/]]
+7. council: [[cmd://Speak/_us_/council][/'kaʊnsl/]], 理事会/会议
+8. deficient/deficiency
+9. curriculum
+10. discharge
+11. doctrine: a popular doctrine
+12. enforce
+    - 实施执行 (carry out)
+    - 强迫 (compel)
+      The police enforce the law.
+      You have no right to enforce your own views on me.
+13. essentially: 本质上，基本上 (basically)
+14. expire/aspire/perspire
+15. fare: 进展 (evolve)
+    - how are you faring with your project
+16. glow
+17. mat
+18. obstruct
+    - Skyscrapers and television reception obstruct air traffic.
+    - He was charged for obstructing the highway.
+    - Tall trees obstructed his view of the road.
+    - obstruction
+19. overcharge
+    - That grocer always overcharges.
+    - That store overcharges tourists.
+20. pollen: [[cmd://Speak/_us_/pollen][/'pɑːlən/]]
+    - He developed an allergy to pollen.
+    - allergic: [[cmd://Speak/_us_/allergic][/ə'lɜːrdʒɪk/]]
+    - allergy: [[cmd://Speak/_us_/allergy][/'ælərdʒi/]]
+21. predominant
+22. mat
+23. protagonist: [[cmd://Speak/_us_/protagonist][ /prə'tæɡənɪst/]]
+    - prot: 首先的/最前面的 (prototype)
+    - agon: 斗争/行动 (agony, antagonist)
+      antagonist: [[cmd://Speak/_us_/antagonist][/æn'tæɡənɪst/]], 反派/对手
+    - The writer characterized the protagonist in his latest novel as lazy and selfish
+24. radiation
+25. renovate: [[cmd://Speak/_us_/renovate][/'renəveɪt/]]
+    - 修复 (restore)
+    - nov-: 新的
+      innovate/innovation/innovative
+      novice: [[cmd://Speak/_us_/novice][/'nɑːvɪs/]], 新手/初学者
+      novation, novel, novelty
+    - Cars were a novelty in 1900
+    - **Rehabilitate**：让一个有问题的物体或人“重新变得有用”。
+    - **Renovate**：让一个过时的物体“变得像新的一样”或“更现代化”。
+    - **Restore**：让一个老旧的物体“恢复到它原始的状态”。
+26. scatter: [[cmd://Speak/_us_/scatter][/'skætər/]]
+    - Benin makes the first hit, and now the monkeys scatter.
+27. sensual
+28. shell, shellfish, bash: 痛击
+29. sodium: [[cmd://Speak/_us_/sodium][/ 'soʊdiəm/]], Na
+30. solo
+31. spice, spicy
+32. stretch: stretch out
+33. strive
+34. stylistic: [[cmd://Speak/_us_/stylistic][/staɪ'lɪstɪk/]]
+    - 风格上的，体裁上的
+    - All their works have stylistic similarities.
+35. surplus
+36. sweep: [[cmd://Speak/_us_/sweep][/swiːp/]]
+    - 打扫 (clean), 席卷, 摆动 (swing)
+    - The students in the laboratory helped sweeped the glass.
+37. syllable: [[cmd://Speak/_us_/syllable][/'sɪləbl/]]
+    - 音节
+38. tow: [[cmd://Speak/_us_/tow][/toʊ/]]
+    - 拖，牵引 (pull)
+    - Could you please give me a tow?
+    - towel, tower
+39. trial: [[cmd://Speak/_us_/trial][/'traɪəl/]]
+    - 试验；磨炼；审讯；努力
+    - adj. 审讯的；试验的
+    - That boy is a real trial to me.
+    - They are doing clinical trials on a new drug.
+40. unearth
+41. wipe:
+    - wipe out, wipe off
