@@ -1,0 +1,68 @@
+#+TITLE: 2025-08-05 Word Review
+#+LATEX_COMPILER: xelatex
+#+LATEX_HEADER: \usepackage{xeCJK}
+#+LATEX_HEADER: \setCJKmainfont{STSong}
+#+LATEX_HEADER: \usepackage{fontspec}
+#+LATEX_HEADER: \setmainfont{Times New Roman}
+#+OPTIONS: toc:t num:t
+#+LATEX_CLASS_OPTIONS: [a4paper]
+
+** 1. Review
+
+*** Word List 1
+1. acronym
+2. adhere
+3. congest/congestion
+   - The streets are often congested.
+   - The congestion in the city gets even worse during the summer.
+4. council
+5. crevice
+6. dispute
+   - The village chief dealt with land disputes and religious affairs.
+   - It would be hard to dispute that he manipulated the space extremely well.
+7. doctrine
+8. enforce
+   - The police enforce the law
+9. foul
+   - I was astonished by the boy's foul language and behaviors.
+10. juvenile
+11. maritime
+12. pollen
+13. predominant
+14. prevalent
+15. protagonist
+    - prot + agon
+    - antagonist
+16. restore, renew, rehabilitate, renovate
+    - restore: (状态、物品、制度、秩序、健康) 恢复原状, restore order/health. The army was called in to restore order.
+    - renew: (合同、信心、兴趣、活力、关系、热情) 更新、焕新，赋予新生命或效力, renew subscription/passport. I need to renew my driver's license next month.
+    - rehabilitate: 恢复到“可接受、正常、有功能”状态, The old factory was rehabilitated into a community center.
+    - (房屋等) 修复+升级；使破旧物焕然一新. We renovated the entire second floor.
+17. sapphire
+18. sensual
+19. shellfish
+20. shuttle
+21. sodium
+22. sweep
+23. syllable
+24. tow
+25. varnish & burnish
+    - 在burnish之后varnish
+
+*** Word List 2
+1. alike
+2. alternate + alternately
+3. behaviorism
+4. biologist
+5. coil
+6. dairy
+7. deceive
+   - de: 向下
+   - ceive: 拿
+     - receive: re-(向后) + ceive(拿): 向后拿=接受
+     - conceive: con-(一起) + ceive: 综合拿=构思构想,怀孕
+     - perceive：per-（完全）+ ceive（拿）: 完全拿=感知
+   - Mary deceive the interviewer about her past experience.
+   - deceptive
+8. dramatic: 吸引人的
+9. erosion:
